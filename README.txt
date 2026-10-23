@@ -1,4 +1,5 @@
 SALONE FARMERS MARKET - HTML/CSS PROJECT
+Author: Ishmail. Junior. Kamara
 
 FILES
 - index.html: Home page
@@ -20,4 +21,3 @@ IMPORTANT
 - This project uses HTML and CSS only. There is no JavaScript.
 - Search, dropdown filters and sorting are visual controls only; they do not dynamically filter content.
 - Price entries are placeholders and must be replaced with verified market data.
-- Update the site name and contact details to match your final assignment brief.
